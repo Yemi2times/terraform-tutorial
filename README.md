@@ -1,4 +1,4 @@
-# terraform-tutorial
+# terraform-Lambda
 
 # Lambda Example
 
